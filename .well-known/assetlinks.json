@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.connect2me2.android",
+      "sha256_cert_fingerprints": [
+        "32:1C:DF:4A:32:4C:6C:6D:E0:8F:27:29:14:0B:A5:41:51:8B:6D:02:A6:C5:D8:68:7B:CE:EA:EA:1B:E7:CB:5E"
+      ]
+    }
+  }
+]
