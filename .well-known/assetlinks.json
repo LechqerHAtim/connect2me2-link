@@ -5,6 +5,9 @@
       "namespace": "android_app",
       "package_name": "app.connect2me2.android",
       "sha256_cert_fingerprints": [
+        "C7:D5:67:C6:06:9B:3A:41:B9:E7:DE:2F:2F:1A:2B:31:8E:2A:4E:BC:38:76:A5:9E:93:FF:8E:CA:F4:89:38:09",
+        "D8:97:08:F1:3F:6B:80:9E:26:2C:7E:93:9D:0B:99:23:09:D1:4A:ED:72:A4:F1:9C:A2:1B:F0:E4:E7:86:E4:3A",
+        "9F:68:66:7E:42:52:7F:6E:86:FB:44:AF:34:58:F3:2F:88:AE:BF:6A:BD:50:71:D5:42:B8:42:22:DD:64:80:C3",
         "32:1C:DF:4A:32:4C:6C:6D:E0:8F:27:29:14:0B:A5:41:51:8B:6D:02:A6:C5:D8:68:7B:CE:EA:EA:1B:E7:CB:5E"
       ]
     }
